@@ -1,0 +1,8 @@
+C:\Работа\Crossinform тестовое\КочепасовТестовое\bin\Release\КочепасовТестовое.exe.config
+C:\Работа\Crossinform тестовое\КочепасовТестовое\bin\Release\КочепасовТестовое.exe
+C:\Работа\Crossinform тестовое\КочепасовТестовое\bin\Release\КочепасовТестовое.pdb
+C:\Работа\Crossinform тестовое\КочепасовТестовое\obj\Release\КочепасовТестовое.csproj.AssemblyReference.cache
+C:\Работа\Crossinform тестовое\КочепасовТестовое\obj\Release\КочепасовТестовое.csproj.SuggestedBindingRedirects.cache
+C:\Работа\Crossinform тестовое\КочепасовТестовое\obj\Release\КочепасовТестовое.csproj.CoreCompileInputs.cache
+C:\Работа\Crossinform тестовое\КочепасовТестовое\obj\Release\КочепасовТестовое.exe
+C:\Работа\Crossinform тестовое\КочепасовТестовое\obj\Release\КочепасовТестовое.pdb
